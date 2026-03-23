@@ -1,0 +1,26 @@
+import axios from 'axios';
+// import { getCookie } from 'utils/cookie';
+
+const instance = axios.create({
+	baseURL: process.env.REACT_APP_MOFI_BASE_URL,
+	crossdomain: true
+});
+
+instance.interceptors.request.use((config) => {
+	// const token = getCookie("token")
+	const token = '1|.U7s.m3yPMa.j6b7m9WygVD3YkU39t9baRs21RLbcy-Y7n-tRYEKDxQifl7kWRE-zSp8Gt3SjSdkD4LvJQ9RCVX44HKx7AVSG2uf'
+	// config.headers["Authorization"] = `Bearer ${token}`;
+	config.headers["Authorization"] = `Bearer ${token}`;
+	return config;
+});
+
+instance.interceptors.response.use(
+	(response) => {
+		return response;
+	},
+	async (error) => {
+		return error.response;
+	}
+);
+
+export default instance;

@@ -1,0 +1,8 @@
+echo "🔍 Linting & formatting staged files..."
+npx lint-staged || exit 1
+
+echo "🔎 Running TypeScript type check..."
+npx tsc --noEmit || exit 1
+
+echo "🛠️ Building project..."
+npm run build || exit 1

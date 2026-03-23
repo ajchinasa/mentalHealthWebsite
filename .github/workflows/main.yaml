@@ -1,0 +1,29 @@
+name: web-revamp CI
+
+on:
+  push:
+    branches: ["develop"] # Trigger on both staging and production branches
+
+jobs:
+  staging-deploy:
+    if: github.ref == 'refs/heads/develop'
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Deploy to Staging Server
+        uses: appleboy/ssh-action@master
+        with:
+          host: ${{ secrets.SSH_HOST }}
+          username: ${{ secrets.SSH_USERNAME }}
+          key: ${{ secrets.SSH_KEY }}
+          port: ${{ secrets.SSH_PORT }}
+          command_timeout: 200m
+          script: |
+            cd /usr/friendpal-frontend-services/friendnpal-2024-web-revamp
+            git pull origin develop
+            docker build -t web-revamp:latest .
+            docker rm -f web-revamp || true
+            docker run --name web-revamp -d -p 4000:4000 web-revamp:latest

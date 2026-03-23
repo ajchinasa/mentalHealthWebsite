@@ -1,0 +1,10 @@
+export { default as AboutUs } from "./AboutUs";
+export { default as ChatPreview } from "./ChatPreview";
+export { default as ChooseUs } from "./ChooseUs";
+export { default as CTA } from "./CTA";
+export { default as Impact } from "./Impact";
+export { default as OurFocus } from "./OurFocus";
+export { default as OurTeam } from "./OurTeam";
+export { default as Partners } from "./Partners";
+export { default as Review } from "./Review";
+export { default as Hero } from "./Hero";
