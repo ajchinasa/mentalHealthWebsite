@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500" height="250" viewBox="0 0 500 250" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Left Circle -->
+  <circle cx="180" cy="125" r="90" fill="#006ab4"/>
+
+  <!-- Right Circle (outline) -->
+  <circle cx="300" cy="125" r="90" fill="none" stroke="#5bd1f7" stroke-width="14"/>
+
+  <!-- Overlap accent -->
+  <path d="M260,65 
+           A90,90 0 0,0 260,185 
+           Q240,155 240,125 
+           Q240,95 260,65 Z" 
+        fill="#5bd1f7" opacity="0.9"/>
+</svg>

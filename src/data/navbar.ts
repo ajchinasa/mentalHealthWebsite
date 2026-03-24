@@ -3,8 +3,8 @@ export const NavMenus: string[] = ["Products", "Resources", "Company"];
 export const dropdownNav: { [key: string]: { text: string; path: string }[] } =
   {
     Products: [
-      { text: "OurPadi", path: "#" },
-      { text: "Pal", path: "#" },
+      // { text: "OurPadi", path: "#" },
+      // { text: "Pal", path: "#" },
       { text: "EAP Services", path: "/eap-services" },
       { text: "Partnerships", path: "/partnerships" },
     ],
