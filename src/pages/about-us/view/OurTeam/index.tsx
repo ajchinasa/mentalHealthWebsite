@@ -1,5 +1,5 @@
-import estherImg from "@/assets/images/AboutUs/estherImg.png";
-import kayodeImg from "@/assets/images/AboutUs/kayodeImg.png";
+import estherImg from "@/assets/images/AboutUs/estherImg.jpg";
+import kayodeImg from "@/assets/images/AboutUs/kayodeImg.jpg";
 
 const OurTeam = () => {
   return (
@@ -9,7 +9,7 @@ const OurTeam = () => {
           Our Team
         </h3>
         <p className="text-[#31405B] font-normal text-sm lg:text-lg mt-4">
-          Behind FriendnPal is a dedicated team of mental health professionals,
+          Behind AuraRest is a dedicated team of mental health professionals,
           technology experts, and compassionate support specialists who share
           one vision: to create a world where mental wellness is a priority for
           everyone.

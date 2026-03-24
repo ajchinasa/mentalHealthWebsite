@@ -18,7 +18,7 @@ const AskedQuestions = () => {
             Frequently Asked Questions
           </h3>
           <p className="text-gray-600 mt-2 text-normal text-xl">
-            Everything you need to know about FriendnPal
+            Everything you need to know about AuraRest
           </p>
         </div>
 

@@ -7,27 +7,27 @@ import BoardAdvisorC from "@/assets/images/LandingPage/BoardAdvisorC.jpg";
 export const OurTeamData = [
   {
     img: CEO,
-    name: "Esther Eruchie",
+    name: "Jude Hemmings",
     title: "CEO & Co-founder",
   },
   {
     img: CTO,
-    name: "Kayode Adesina",
+    name: "Kate Mccrie",
     title: "CTO & Co-founder",
   },
   {
     img: BoardAdvisorA,
-    name: "Nancy DiGioacchino",
+    name: "Greg White",
     title: "Board Advisor",
   },
   {
     img: BoardAdvisorB,
-    name: "Dr. Aditya Singhal",
+    name: "Dr. Cleave Brown",
     title: "Board Advisor",
   },
   {
     img: BoardAdvisorC,
-    name: "Isioma Udeozo",
+    name: "Lisa Gramm",
     title: "Board Advisor",
   },
 ];

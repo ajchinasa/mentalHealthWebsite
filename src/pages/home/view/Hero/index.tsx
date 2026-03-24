@@ -26,7 +26,7 @@ const Hero = () => {
         </div>
         <div className="w-full max-w-[648px] text-center">
           <h3 className="font-semibold text-large lg:text-extraLarge text-neutral-gray-900">
-            FriendnPal, Your Padi in{" "}
+            AuraRest, Your Padi in{" "}
             <span className="text-[#006AB4]">Wellness</span>
           </h3>
           <p className="font-normal text-baseSmall lg:text-mediumB pb-2 text-neutral-gray-800">

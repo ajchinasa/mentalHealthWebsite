@@ -8,8 +8,8 @@ const DownloadButtons: FC<{
   return (
     <div className={`flex gap-2 mt-4 ${className}`}>
       <Link
-        to="https://apps.apple.com/us/app/friendnpal/id6648793159"
-        target="_blank"
+        to="#"
+
       >
         <Icon
           name="AppStoreBadge"

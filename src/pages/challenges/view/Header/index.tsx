@@ -1,9 +1,9 @@
 import PageHeader from "@/components/PageHeader";
 
 const Header = () => {
-  const headerText = `What problem is FriendnPal solving for Africans?`;
+  const headerText = `What problem is AuraRest solving for Africans?`;
   const headerP1 =
-    "FriendnPal is addressing the silent struggles around mental health, emotional support, and accessible wellness services\u2014making it easier for Africans to connect, heal, and grow..";
+    "AuraRest is addressing the silent struggles around mental health, emotional support, and accessible wellness services\u2014making it easier for Africans to connect, heal, and grow..";
   const headerP2 = "";
   return (
     <PageHeader

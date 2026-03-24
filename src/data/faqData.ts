@@ -5,12 +5,12 @@ export interface FaqItem {
 
 export const faqData: FaqItem[] = [
   {
-    question: "What is FriendnPal?",
+    question: "What is AuraRest?",
     answer:
-      "FriendnPal is a mental health company focused on providing multilingual, AI-driven support services across Africa. We offer digital tools and interventions that address trauma, stress, depression, and other psychosocial issues.",
+      "AuraRest is a mental health company focused on providing multilingual, AI-driven support services across Africa. We offer digital tools and interventions that address trauma, stress, depression, and other psychosocial issues.",
   },
   {
-    question: "What kind of organizations does FriendnPal partner with?",
+    question: "What kind of organizations does AuraRest partner with?",
     answer:
       "We work with NGOs, government bodies, healthcare providers, educational institutions, and corporate organizations to deliver mental health support, outreach, and training programs.",
   },
@@ -20,12 +20,12 @@ export const faqData: FaqItem[] = [
       "Our impact areas include mental health and psychosocial support, youth empowerment, substance abuse rehabilitation, and digital mental health education.",
   },
   {
-    question: "How can my organization partner with FriendnPal?",
+    question: "How can my organization partner with AuraRest?",
     answer:
-      "You can reach out to us via our official email,  partnership@friendnpal.com to discuss collaboration opportunities, tailored programs, or integration with your existing initiatives.",
+      "You can reach out to us via our official email,  partnership@AuraRest.com to discuss collaboration opportunities, tailored programs, or integration with your existing initiatives.",
   },
   {
-    question: "Is FriendnPal a medical service provider?",
+    question: "Is AuraRest a medical service provider?",
     answer:
       "No, we are not a hospital or clinic. We provide mental health support and wellness tools through technology, connecting users with licensed professionals where necessary.",
   },

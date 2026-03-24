@@ -15,7 +15,7 @@ const EmployeeCare = () => {
               Shaping the Future of Employee Care
             </p>
             <p className="text-brand-secondary-MidDarkGrey text-lg text-justify">
-              At FriendnPal, our Employee Assistance Program (EAP) is designed
+              At AuraRest, our Employee Assistance Program (EAP) is designed
               for today&apos;s dynamic workplace. We go beyond basic support to
               deliver mental health solutions that empower your team to thrive
               both at work and at home
@@ -28,7 +28,7 @@ const EmployeeCare = () => {
               </div>
               <p className="font-semibold">Accessible</p>
               <p className="text-sm text-justify">
-                With FriendnPal, employees enjoy instant access to high-quality
+                With AuraRest, employees enjoy instant access to high-quality
                 mental health resources in an intuitive, engaging platform. Our
                 goal is to make support effortless—so every team member feels
                 empowered to care for their well-being, wherever they are
@@ -53,7 +53,7 @@ const EmployeeCare = () => {
               </div>
               <p className="font-semibold">Support That Delivers ROI</p>
               <p className="text-sm text-justify">
-                Investing in mental health with FriendnPal EAP brings real value
+                Investing in mental health with AuraRest EAP brings real value
                 to your organization. Companies that prioritize employee
                 well-being see reduced healthcare costs, lower absenteeism, and
                 boosted productivity. Every dollar spent returns

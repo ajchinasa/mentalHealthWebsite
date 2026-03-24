@@ -46,9 +46,9 @@ export const userAccountAndSecurity = [
 export const prohibitedUse = [
   "Provide false or misleading information in their applications.",
   "Use the platform for fraudulent or illegal activities.",
-  "Attempt to gain unauthorized access to FriendnPal systems.",
+  "Attempt to gain unauthorized access to AuraRest systems.",
   "Share or distribute another person’s personal information without consent.",
-  "Engage in abusive or threatening behaviour towards FriendnPal staﬀ or other users.",
+  "Engage in abusive or threatening behaviour towards AuraRest staﬀ or other users.",
 ];
 
 export const acceptableUsage = [
@@ -65,5 +65,5 @@ export const indemnity = [
 
 export const liability = [
   "Any indirect, special, consequential, punitive, or exemplary damages; or",
-  "Any damages whatsoever arising out of or in connection with FriendnPal’s website or services, including, without limitation, the use, inability to use, or the results of using FriendnPal's website or services, whether such damages are based on warranty, contract, tort, statute, or any other legal theory, and including, without limitation, any damages arising from the following.",
+  "Any damages whatsoever arising out of or in connection with AuraRest’s website or services, including, without limitation, the use, inability to use, or the results of using AuraRest's website or services, whether such damages are based on warranty, contract, tort, statute, or any other legal theory, and including, without limitation, any damages arising from the following.",
 ];

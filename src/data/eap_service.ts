@@ -21,7 +21,7 @@ export const ImpactStat: {
   {
     figure: "95%",
     header: "Employee Satisfaction",
-    body: "Our partners report that 95% of employees feel more supported and resilient after engaging with FriendnPal's EAP.",
+    body: "Our partners report that 95% of employees feel more supported and resilient after engaging with AuraRest's EAP.",
   },
 ];
 

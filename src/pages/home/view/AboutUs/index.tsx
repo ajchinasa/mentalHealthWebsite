@@ -60,7 +60,7 @@ const AboutUs = () => {
           <p className="text-[#006AB4] text-base">About Us </p>
         </div>
         <h1 className="font-semibold text-2xl md:text-3xl lg:text-4xl text-[#161B26] leading-tight">
-          FriendnPal is reshaping emotional wellness in Africa and Globally
+          AuraRest is reshaping emotional wellness in Africa and Globally
         </h1>
         <p className="text-[#333741] text-lg leading-relaxed max-w-2xl">
           By blending AI technology, culture, and community into one warm,

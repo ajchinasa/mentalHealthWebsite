@@ -13,7 +13,7 @@ const MakeADifference = () => {
               Ready to Make a Difference?
             </h2>
             <p className="text-[#31405B] font-normal text-sm lg:text-base">
-              Join FriendnPal in reshaping mental healthcare—expand access,
+              Join AuraRest in reshaping mental healthcare—expand access,
               empower individuals, and build solutions that matter. Whether
               you&apos;re an organization, provider, or supporter, your
               partnership drives a healthier, happier world.
@@ -28,7 +28,7 @@ const MakeADifference = () => {
             <p className=" font-semibold">Want to connect directly?</p>
             <p className="flex gap-2 text-sm items-center mt-5">
               <MdOutlineMail />
-              partnerships@friendnpal.com
+              partnerships@AuraRest.com
             </p>
             <p className="flex gap-2 text-sm items-center mt-2">
               <PiPhoneCallBold />

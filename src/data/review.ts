@@ -5,7 +5,7 @@ export const reviewCardData = [
   {
     icon: quoteIcon,
     description:
-      "FriendnPal is more than just an App. It's a suuportive friend that's always there for me. I hihgly recommend it to anyone seeking mental health suppor and guidance, Five starts isn't enough. I'd give it ten stars if i could!",
+      "AuraRest is more than just an App. It's a suuportive friend that's always there for me. I hihgly recommend it to anyone seeking mental health suppor and guidance, Five starts isn't enough. I'd give it ten stars if i could!",
     name: "Ujufavy",
     stars: stars,
   },

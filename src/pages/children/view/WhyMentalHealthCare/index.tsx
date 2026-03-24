@@ -51,7 +51,7 @@ const WhyMentalHealthCare = () => {
           Why mental Health care is crucial for children
         </h3>
         <p className="font-switzerRegular font-normal text-base text-[#31405B]">
-          Every child deserves a strong emotional foundation. FriendnPal was
+          Every child deserves a strong emotional foundation. AuraRest was
           built:
         </p>
       </div>

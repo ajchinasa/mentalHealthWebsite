@@ -20,7 +20,7 @@ const MoreQuestions = () => {
             <p className=" font-semibold">Want to connect directly?</p>
             <p className="flex gap-2 text-sm items-center mt-5">
               <MdOutlineMail />
-              partnerships@friendnpal.com
+              partnerships@AuraRest.com
             </p>
             <p className="flex gap-2 text-sm items-center mt-2">
               <PiPhoneCallBold />

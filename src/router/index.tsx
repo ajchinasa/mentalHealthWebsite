@@ -4,8 +4,8 @@ import { Suspense } from "react";
 import { createHashRouter, RouteObject } from "react-router-dom";
 import { PageLoader } from "@/components/PageLoader";
 import NotFound from "@/pages/not-found";
-import { Therapy, Home } from "./lazyComponents";
-import Partnerships from "@/pages/partnerships";
+import { Therapy, Home, Partnerships, Career, AboutUs, FAQ, PrivacyPolicy, TermsAndCondition, Children, Challenges, Blog, EAPServices } from "./lazyComponents";
+
 
 const routes: RouteObject[] = [
   {
@@ -19,7 +19,7 @@ const routes: RouteObject[] = [
             </div>
           }
         >
-          <AppLayout />,
+          <AppLayout />
         </Suspense>
       </ErrorBoundary>
     ),
@@ -27,6 +27,17 @@ const routes: RouteObject[] = [
       { index: true, element: <Home /> },
       { path: "/therapy", element: <Therapy /> },
       { path: "/partnerships", element: <Partnerships /> },
+      { path: "/career", element: <Career /> },
+      { path: "/about-us", element: <AboutUs /> },
+      { path: "/faq", element: <FAQ /> },
+      { path: "/privacyPolicy", element: <PrivacyPolicy /> },
+      { path: "/terms-and-condition", element: <TermsAndCondition /> },
+      { path: "/children", element: <Children /> },
+      { path: "/challenges", element: <Challenges /> },
+      { path: "/blog", element: <Blog /> },
+      { path: "/eap-services", element: <EAPServices /> },
+
+
 
     ],
   },

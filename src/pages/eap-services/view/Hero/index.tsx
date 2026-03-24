@@ -9,7 +9,7 @@ const EAPHero = () => {
             Empowering Workplaces with Compassionate Mental Health Care
           </p>
           <p className="md:text-xl w-full text-justify">
-            FriendnPal&apos;s EAP supports a healthier, happier workforce with
+            AuraRest&apos;s EAP supports a healthier, happier workforce with
             personalized mental health care. Our evidence-based solutions help
             employees manage stress, overcome challenges, and stay balanced
           </p>

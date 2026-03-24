@@ -6,15 +6,15 @@ import shadow from "@/assets/images/AboutUs/shadow.png";
 
 const GetStarted = () => {
   return (
-    <div className="relative flex flex-col md:flex-row w-full h-auto md:pt-14 gap-6 md:gap-0 bg-gradient-to-t from-[#002E4E] to-[#006AB4] px-6 lg:px-10">
+    <div className="relative flex flex-col md:flex-row w-full h-auto md:pt-14 gap-6 md:gap-0 bg-gradient-to-t from-[#002E4E] to-[#006AB4] px-6 lg:px-10 mb-6 lg:mb-10">
       {/* Text Section */}
       <div className="flex flex-col justify-center w-full lg:w-2/3 h-auto mt-2 md:mt-0 lg:mt-14 gap-6 text-white lg:px-10">
         <h3 className="font-semibold text-4xl font-switzerRegular text-white">
-          Get Started with FriendnPal
+          Get Started with AuraRest
         </h3>
         <p className="font-normal font-switzerRegular text-base md:text-lg text-[#F5F7FA] w-full md:w-11/12">
           Ready to take the first step toward a brighter, healthier future?
-          Download the FriendnPal app on the Play Store or Apple Store and join
+          Download the AuraRest app on the Play Store or Apple Store and join
           a community that cares. Together, we can break barriers, transform
           lives, and build a legacy of mental wellness.
         </p>
@@ -34,7 +34,7 @@ const GetStarted = () => {
           </Link> */}
 
           <Link
-            to="https://apps.apple.com/us/app/friendnpal/id6648793159"
+            to="#"
             target="_blank"
           >
             <button

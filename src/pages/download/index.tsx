@@ -28,7 +28,7 @@ const Product = () => {
             </p>
             <p className="text-[16px] w-[90%] mx-auto lg:text-[18px] lg:w-[70%]">
               Your Mental Well-being Matters, And We are Here for You At
-              FriendnPal, we believe everyone deserves access to quality,
+              AuraRest, we believe everyone deserves access to quality,
               compassionate therapy that fits their life. Wherever you are on
               your journey, take the first step with us, because better mental
               health starts with a single conversation

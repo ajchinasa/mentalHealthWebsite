@@ -9,7 +9,7 @@ const PartnershipSection = () => {
         <div className="w-full lg:w-1/2 flex flex-col gap-8">
           <div className="flex flex-col gap-5">
             <p className="text-2xl md:text-4xl font-bold text-brand-secondary-customGrey950">
-              Partner with FriendnPal for Employee Well-being
+              Partner with AuraRest for Employee Well-being
             </p>
             <p className="text-brand-secondary-MidDarkGrey">
               Fill in your details and our partnership team will reach out with
@@ -21,7 +21,7 @@ const PartnershipSection = () => {
             <p className=" font-semibold">Want to connect directly?</p>
             <p className="flex gap-2 text-sm items-center mt-5">
               <MdOutlineMail />
-              partnerships@friendnpal.com
+              partnerships@AuraRest.com
             </p>
             <p className="flex gap-2 text-sm items-center mt-2">
               <PiPhoneCallBold />

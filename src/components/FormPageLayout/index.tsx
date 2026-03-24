@@ -10,7 +10,7 @@ const FormPageLayout = () => {
         <Outlet />
       </div>
       <p className="text-gray-400 text-sm">
-        &copy; 2025 Friendnpal. All rights reserved.
+        &copy; 2025 AuraRest. All rights reserved.
       </p>
     </div>
   );

@@ -22,9 +22,9 @@ export const PROBLEM_CONTENT: Problem[] = [
       },
       {
         id: 2,
-        header: "How is FriendnPal solving this?",
+        header: "How is AuraRest solving this?",
         content:
-          "FriendnPal prioritizes mental health education, awareness programs, and community engagement. This includes implementing culturally sensitive mental health programs, outreaches, and webinars that challenge stereotypes, promote understanding, and encourage open dialogue about mental health. We also collaborate with government bodies, healthcare providers, community leaders, and NGOs so as to combat mental health stigma in African societies.",
+          "AuraRest prioritizes mental health education, awareness programs, and community engagement. This includes implementing culturally sensitive mental health programs, outreaches, and webinars that challenge stereotypes, promote understanding, and encourage open dialogue about mental health. We also collaborate with government bodies, healthcare providers, community leaders, and NGOs so as to combat mental health stigma in African societies.",
       },
     ],
   },
@@ -41,9 +41,9 @@ export const PROBLEM_CONTENT: Problem[] = [
       },
       {
         id: 2,
-        header: "How is FriendnPal solving this?",
+        header: "How is AuraRest solving this?",
         content:
-          "FriendnPal caters to diverse audiences by offering the application, chatbot and virtual therapy in various languages and local dialects, increasing accessibility and inclusivity",
+          "AuraRest caters to diverse audiences by offering the application, chatbot and virtual therapy in various languages and local dialects, increasing accessibility and inclusivity",
       },
     ],
   },
@@ -59,9 +59,9 @@ export const PROBLEM_CONTENT: Problem[] = [
       },
       {
         id: 2,
-        header: "How is FriendnPal solving this?",
+        header: "How is AuraRest solving this?",
         content:
-          "Individuals can sign up on the Friendnpal mobile application and receive mental aid for free with Pal, an AI Companion ready to listen and give immediate support or book a therapy session at an affordable subscription fee, in contrast to traditional therapy expenses.",
+          "Individuals can sign up on the AuraRest mobile application and receive mental aid for free with Pal, an AI Companion ready to listen and give immediate support or book a therapy session at an affordable subscription fee, in contrast to traditional therapy expenses.",
       },
     ],
   },

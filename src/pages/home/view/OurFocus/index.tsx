@@ -17,6 +17,7 @@ const OurFocus = () => {
 
   const getHandleClick = (index: number) => {
     if (index === 0) {
+      // This is the "Individual" card
       return () => setOpen(!open);
     } else if (index === 1) {
       return () => navigate("/children");
@@ -50,7 +51,7 @@ const OurFocus = () => {
           </h1>
         </div>
         <p className="w-full md:w-1/2 text-[#333741] text-base">
-          FriendnPal supports every kind of emotional journey; with warmth,
+          AuraRest supports every kind of emotional journey; with warmth,
           respect, and cultural understanding
         </p>
       </div>
@@ -96,7 +97,7 @@ const OurFocus = () => {
           </div>
           <img src={qrCode} className="w-[70%] mx-auto" alt="QR Code" />
           <p className="text-brand-secondary-extraLightBlue text-center mx-auto">
-            Download the OurPadi app and sign up or log in with your account
+            Download the AuraRest app and sign up or log in with your account
             details.
           </p>
         </div>

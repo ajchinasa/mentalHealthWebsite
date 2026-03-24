@@ -16,7 +16,7 @@ const HereForYou = () => {
           Your Mental Well-being Matters — And We’re Here for You
         </h3>
         <p className="text-[#F5F7FA] text-base  font-normal leading-relaxed">
-          At FriendnPal, we believe everyone deserves access to quality,
+          At AuraRest, we believe everyone deserves access to quality,
           compassionate therapy that fits their life. Wherever you are on your
           journey, take the first step with us — because better mental health
           starts with a single conversation.

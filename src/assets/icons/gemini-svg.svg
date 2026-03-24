@@ -1,0 +1,7 @@
+<svg width="400" height="120" viewBox="0 0 400 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="60" cy="60" r="45" fill="#006AB4"/>
+  
+  <circle cx="100" cy="60" r="45" stroke="#72DBF2" stroke-width="8"/>
+  
+  <text x="165" y="72" fill="#333741" style="font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 38px; font-weight: 500; letter-spacing: 0.05em;">AuraRest</text>
+</svg>

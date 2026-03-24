@@ -15,13 +15,13 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-[1fr_1fr] lg:grid-cols-[2fr_1fr_1fr_1fr] gap-10 text-white">
           <div className="space-y-8">
             <div className="flex items-center gap-1">
-              <Icon name="Logo" width={52} height={48.47} />
-              <p className="text-white text-2xl leading-[39px]">FriendnPal</p>
+              <Icon name="Logo" width={68} height={58.47} />
+              <p className="text-white text-2xl leading-[39px]">AuraRest</p>
             </div>
             <div className="space-y-5">
               <div className="flex items-center gap-2">
                 <Icon name="Mail" className="h-4 w-6" />
-                <p className="text-white leading-6">Support@friendnpal.com</p>
+                <p className="text-white leading-6">Support@mentalhealth.com</p>
               </div>
               <div className="flex items-center gap-2">
                 <Icon name="Call" className="h-4 w-6" />
@@ -30,7 +30,7 @@ const Footer = () => {
               <div className="flex items-center gap-2">
                 <Icon name="Location" className="h-4 w-6" />
                 <p className="text-white leading-6">
-                  4 Salawu kadiku str, happy land estate, Ajah, Lagos State
+                  4 mentalhealth str, therapy land estate, Ajah, Lagos State
                 </p>
               </div>
             </div>
@@ -58,23 +58,23 @@ const Footer = () => {
             {[
               {
                 label: "Linkedin",
-                link: "https://www.linkedin.com/company/friendnpal/",
+                link: "#",
               },
               {
                 label: "Facebook",
-                link: "https://web.facebook.com/people/FriendnPal/100094665430976/?mibextid=LQQJ4d",
+                link: "#",
               },
               {
                 label: "Instagram",
-                link: "https://www.instagram.com/friendnpal_mental_health_?igsh=eHBkemo0dG8yYmI5",
+                link: "#",
               },
               {
                 label: "TwitterX",
-                link: "https://twitter.com/FriendnPal/",
+                link: "#",
               },
               {
                 label: "Youtube",
-                link: "https://www.youtube.com/@FriendnPal_",
+                link: "#",
               },
             ].map((IconItem) => {
               return (

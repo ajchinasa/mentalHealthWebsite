@@ -3,12 +3,12 @@ const Welcome = () => {
     <div className="flex flex-col gap-2 lg:gap-6 pt-12 lg:pt-0">
       <h6 className="font-semibold text-2xl text-[#000000]">Welcome!</h6>
       <p className="text-sm text-[#161B26] font-normal">
-        Thank you for choosing FriendnPal's therapy services. In order to better
+        Thank you for choosing AuraRest's therapy services. In order to better
         assist you, we kindly ask you to complete this intake form. The
         information you provide will be kept strictly confidential and will help
         us understand your needs and preferences. Please take your time to fill
         out the form accurately and thoroughly. If you have any questions or
-        concerns, feel free to reach out to us at support@friendnpal.com. Your
+        concerns, feel free to reach out to us at support@AuraRest.com. Your
         well-being is our priority, and we are committed to providing you with
         the support and care you deserve. Thank you for entrusting us with your
         journey towards healing and personal growth.
@@ -45,7 +45,7 @@ const Welcome = () => {
         <p className="font-medium text-[#000000] text-base">Consent</p>
         <p className="text-sm text-[#161B26] font-normal">
           I consent to my email ID or other personal information being processed
-          by FriendnPal for the sole purpose of contacting me for a therapy
+          by AuraRest for the sole purpose of contacting me for a therapy
           session.
         </p>
       </div>

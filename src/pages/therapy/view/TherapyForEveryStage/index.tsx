@@ -9,7 +9,7 @@ const TherapyForEveryStage = () => {
           Therapy for Every Stage of Life and Relationship
         </h4>
         <p className="text-sm md:text-base font-normal px-4 md:px-6">
-          At FriendnPal, we believe everyone deserves a safe space to heal,
+          At AuraRest, we believe everyone deserves a safe space to heal,
           grow, and feel supported. Whether you&apos;re navigating life as an
           individual, raising emotionally healthy children, or working through
           relationship challenges—we&apos;ve got you covered.

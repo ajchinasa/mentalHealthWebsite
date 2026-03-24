@@ -7,7 +7,7 @@ const CareerHero = () => {
         </h1>
         <p className="w-full md:max-w-[800px] text-center mx-auto">
           Are you passionate about transforming mental health care and making a
-          tangible impact in Africa? At FriendnPal, we&apos;re always looking
+          tangible impact in Africa? At AuraRest, we&apos;re always looking
           for forward-thinking, compassionate individuals to join our mission.
           Working with us means being part of a dynamic team that is dedicated
           to building a healthier, happier future for all

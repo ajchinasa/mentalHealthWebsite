@@ -14,24 +14,24 @@ const TermsAndCondition = () => {
         <h4 className="text-4xl font-semibold mb-14">Terms of Service</h4>
         <p className="mb-8 font-normal text-sm">
           These Terms of Service (the “Terms”) constitute a legally binding
-          agreement between you and FriendnPal Creative Care Solutions
-          (“FriendnPal, ” “we, ” “our, ” or “us”) governing your access to and
-          use of the FriendnPal website located at{" "}
+          agreement between you and AuraRest Creative Care Solutions
+          (AuraRest, ” “we, ” “our, ” or “us”) governing your access to and
+          use of the AuraRest website located at{" "}
           <Link
-            to={"https://www.friendnpal.com/"}
+            to={"#"}
             target="_blank"
             className="underline text-blue-700"
           >
-            https://www.friendnpal.com/
+            https://www.AuraRest.com/
           </Link>{" "}
-          (the “Site”) and FriendnPal related services (collectively with the
+          (the “Site”) and AuraRest related services (collectively with the
           Site, the “Services”). By using this website, any of our websites,
           applications, and/or services, you agree to these Terms of Service.
         </p>
         <p className="text-sm mb-4 font-medium">
           These Terms (formerly known as the Statement of Rights and
           Responsibilities) make up the entire agreement between you and
-          FriendnPal regarding your use of our Services. Our{" "}
+          AuraRest regarding your use of our Services. Our{" "}
           <Link to={"/privacy-policy"} target="_blank" className="">
             Privacy Policy
           </Link>{" "}
@@ -44,8 +44,8 @@ const TermsAndCondition = () => {
       <section>
         <h4 className="text-2xl font-semibold mb-6">About Us</h4>
         <p className="text-sm mb-4 font-medium">
-          FriendnPal Creative Care Solutions (hereinafter referred to as
-          "FriendnPal") is Africa&apos;s first AI-powered, multilingual mental
+          AuraRest Creative Care Solutions (hereinafter referred to as
+          "AuraRest") is Africa&apos;s first AI-powered, multilingual mental
           health support platform designed to make mental wellness accessible,
           affordable, and stigma-free. We serve individuals, families,
           businesses, and underserved communities across Africa and beyond by
@@ -53,7 +53,7 @@ const TermsAndCondition = () => {
           seamless, human-centered, and intelligent experiences.
         </p>
         <p className="text-sm mb-4 font-medium">
-          At FriendnPal, we integrate AI-guided support, 24/7 anonymous access,
+          At AuraRest, we integrate AI-guided support, 24/7 anonymous access,
           and evidence-based resources into a continuous mental healthcare
           journey, reaching users through an app and even WhatsApp for
           low-connectivity areas. With a mission rooted in lived experiences and
@@ -63,7 +63,7 @@ const TermsAndCondition = () => {
         </p>
         <p className="text-sm mb-4 font-medium">
           These Terms of Service agreement outlines your rights and
-          responsibilities when engaging with FriendnPal&apos;s services. By
+          responsibilities when engaging with AuraRest&apos;s services. By
           accessing our website or using any of our digital platforms, you
           accept and agree to the provisions outlined herein.
         </p>
@@ -74,7 +74,7 @@ const TermsAndCondition = () => {
           Our mission is to revolutionize mental health support in Africa as the
           first AI-powered app with multilingual capabilities, reflecting our
           commitment to inclusivity and accessibility, ensuring that support is
-          available to everyone, regardless of language barriers. At FriendnPal,
+          available to everyone, regardless of language barriers. At AuraRest,
           our dedicated team is driven by a shared passion for mental health
           advocacy and innovation. With diverse backgrounds and expertise, we
           are united in our mission to make a positive impact on the lives of
@@ -88,7 +88,7 @@ const TermsAndCondition = () => {
           to our blog, partners, service providers, vendors, and systems around
           the world, including outside your country of residence. The use of
           this global infrastructure is essential to provide our services. This
-          infrastructure may be owned, operated, or controlled by FriendnPal.
+          infrastructure may be owned, operated, or controlled by AuraRest.
         </p>
       </section>
       <section>
@@ -96,7 +96,7 @@ const TermsAndCondition = () => {
           User Accounts and Account Security
         </h4>
         <p className="text-sm mb-4 font-medium">
-          To access certain features of FriendnPal, you may need to create an
+          To access certain features of AuraRest, you may need to create an
           account. You agree to:
         </p>
         <ol className="list-[lower-alpha] list-inside text-sm space-y-2 mb-4">
@@ -105,7 +105,7 @@ const TermsAndCondition = () => {
           ))}
         </ol>
         <p className="text-sm mb-4 font-medium">
-          FriendnPal is not responsible for any loss or damage arising from
+          AuraRest is not responsible for any loss or damage arising from
           unauthorized access due to your failure to secure your account. We
           reserve the right to suspend or terminate accounts that violate our
           policies.
@@ -116,7 +116,7 @@ const TermsAndCondition = () => {
           Prohibited Uses and Activities
         </h4>
         <p className="text-sm mb-4 font-medium">
-          Users of FriendnPal must not:
+          Users of AuraRest must not:
         </p>
         <ol className="list-decimal list-inside text-sm space-y-2 mb-4">
           {prohibitedUse.map((item, index) => (
@@ -143,18 +143,18 @@ const TermsAndCondition = () => {
         <h4 className="text-2xl font-semibold mb-6">Intellectual Property</h4>
         <p className="text-sm mb-4 font-medium">
           All intellectual property rights, including copyrights, trademarks,
-          patents, and trade secrets, in the FriendnPal platform, services, and
-          content (excluding user-generated content) are owned by FriendnPal or
+          patents, and trade secrets, in the AuraRest platform, services, and
+          content (excluding user-generated content) are owned by AuraRest or
           its licensors. You agree not to copy, modify, distribute, sell, or
           lease any part of our services without our written permission. All
           content on the platform, including text, images, software, and
-          designs, is protected by copyright and owned by FriendnPal or its
+          designs, is protected by copyright and owned by AuraRest or its
           licensors. Unauthorized use, reproduction, or distribution of our
           copyrighted materials is strictly prohibited.
         </p>
         <p className="text-sm mb-4 font-medium">
           You retain ownership of any content you submit to the platform, but
-          grant FriendnPal a non-exclusive, worldwide, royalty-free license to
+          grant AuraRest a non-exclusive, worldwide, royalty-free license to
           use, store, display, reproduce, and distribute your content for
           platform-related purposes.
         </p>
@@ -166,11 +166,11 @@ const TermsAndCondition = () => {
         <p className="text-sm mb-4 font-medium">
           You are independently responsible for complying with all applicable
           laws related to your use of our website and services. However, by
-          accessing or using the FriendnPal platform, you agree to comply with
+          accessing or using the AuraRest platform, you agree to comply with
           the terms and conditions of our Acceptable Usage Policy.
         </p>
         <p className="text-sm mb-4 font-medium">
-          You agree to use the FriendnPal website and portal only for lawful
+          You agree to use the AuraRest website and portal only for lawful
           purposes. You shall not:
         </p>
         <ol className="list-[lower-alpha] list-inside text-sm space-y-2 mb-4">
@@ -187,8 +187,8 @@ const TermsAndCondition = () => {
       <section>
         <h4 className="text-2xl font-semibold mb-6">Indemnity</h4>
         <p className="text-sm mb-4 font-medium">
-          By using FriendnPal&apos;s services, you agree to indemnify, defend,
-          and hold harmless FriendnPal, its affiliates, directors, officers,
+          By using AuraRest&apos;s services, you agree to indemnify, defend,
+          and hold harmless AuraRest, its affiliates, directors, officers,
           employees, agents, and partners from and against any claims,
           liabilities, damages, losses, and expenses (including legal fees)
           arising out of or in any way connected with:
@@ -208,7 +208,7 @@ const TermsAndCondition = () => {
       <section>
         <h4 className="text-2xl font-semibold mb-6">Limitation of Liability</h4>
         <p className="text-sm mb-4 font-medium">
-          In no event will FriendnPal be liable for:
+          In no event will AuraRest be liable for:
         </p>
 
         <ol className="list-[lower-alpha] list-inside text-sm space-y-2 mb-4">
@@ -220,7 +220,7 @@ const TermsAndCondition = () => {
       <section>
         <h4 className="text-2xl font-semibold mb-6">Disclaimer</h4>
         <p className="text-sm mb-4 font-medium">
-          WE TRY TO KEEP THE FRIENDNPAL PLATFORM AVAILABLE AT ALL TIMES,
+          WE TRY TO KEEP THE AuraRest PLATFORM AVAILABLE AT ALL TIMES,
           BUG-FREE AND SAFE. HOWEVER, YOU USE IT AT YOUR OWN RISK.
         </p>
         <p className="text-sm mb-4 font-medium">
@@ -229,10 +229,10 @@ const TermsAndCondition = () => {
           ANY IMPLIED OR STATUTORY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
           PARTICULAR USE OR PURPOSE, TITLE, AND NON-INFRINGEMENT OF INTELLECTUAL
           PROPERTY RIGHTS). WITHOUT LIMITING THE GENERALITY OF THE FOREGOING,
-          FriendnPal MAKES NO WARRANTY THAT OUR WEBSITE AND SERVICES WILL MEET
+          AuraRest MAKES NO WARRANTY THAT OUR WEBSITE AND SERVICES WILL MEET
           YOUR REQUIREMENTS OR THAT OUR WEBSITE WILL BE UNINTERRUPTED, TIMELY,
           SECURE, OR ERROR-FREE. NO ADVICE OR INFORMATION, WHETHER ORAL OR
-          WRITTEN, OBTAINED BY YOU THROUGH OUR WEBSITE OR FROM FRIENDNPAL, ITS
+          WRITTEN, OBTAINED BY YOU THROUGH OUR WEBSITE OR FROM AuraRest, ITS
           PARENTS, SUBSIDIARIES, OR OTHER AFFILIATED COMPANIES, OR ITS OR THEIR
           SUPPLIERS (OR THE RESPECTIVE OFFICERS, DIRECTORS, EMPLOYEES, OR AGENTS
           OF ANY SUCH ENTITIES) (COLLECTIVELY, PARTIES") SHALL CREATE ANY
@@ -244,7 +244,7 @@ const TermsAndCondition = () => {
           Right To Information Sharing
         </h4>
         <p className="text-sm mb-4 font-medium">
-          FriendnPal has the right to share information about users and their
+          AuraRest has the right to share information about users and their
           transactions with regulators, acquirers, issuers, law enforcement, and
           other authorities to comply with legal requirements. This sharing is
           important to prevent fraud, investigate suspicious transactions, and
@@ -280,7 +280,7 @@ const TermsAndCondition = () => {
           Electronic Signatures and Legal Notices
         </h4>
         <p className="text-sm mb-4 font-medium">
-          By using FriendnPal, you consent to receive electronic communications
+          By using AuraRest, you consent to receive electronic communications
           from us. You agree that electronic agreements, notices, disclosures,
           and other communications satisfy any legal requirement that such
           communications be in writing. You acknowledge that electronic

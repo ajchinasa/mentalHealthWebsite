@@ -18,7 +18,7 @@ const AwardsHero = () => {
             Recognized for Impact, Driven by Purpose
           </h1>
           <p className="text-[#31405B] text-base lg:text-lg font-normal">
-            At FriendnPal, our mission to make mental health support accessible
+            At AuraRest, our mission to make mental health support accessible
             and inclusive across Africa has earned recognition from leading
             organizations. These awards reflect our unwavering commitment to
             innovation, empathy, and social impact in mental wellness.
@@ -29,7 +29,7 @@ const AwardsHero = () => {
         <div className=" w-full">
           <img
             src={HeroImg}
-            alt="Awards and Certifications at FriendnPal"
+            alt="Awards and Certifications at AuraRest"
             className="w-full max-w-md mx-auto"
           />
         </div>

@@ -20,7 +20,7 @@ const Hero = () => {
             Building Stronger Partnerships for a Healthier Future
           </h1>
           <p className="text-base md:text-lg font-normal text-[#31405B]">
-            Transform workplace well-being with FriendnPal—empower your team,
+            Transform workplace well-being with AuraRest—empower your team,
             boost productivity, and nurture genuine care. Partner with us to
             make mental health support accessible, effective, and
             transformative.

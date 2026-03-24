@@ -9,13 +9,13 @@ import { PiBookmarkFill } from "react-icons/pi";
 const HeroLinks = [
   {
     text: "iOS App",
-    to: "https://apps.apple.com/ng/app/ourpadi/id6648793159",
+    to: "#",
     icon: IoLogoAppleAppstore,
     target: "_blank",
   },
   {
     text: "Web App",
-    to: "https://app.friendnpal.com/",
+    to: "#",
     icon: GiWireframeGlobe,
     target: "_blank",
   },
@@ -52,7 +52,7 @@ const Hero = () => {
               Your Pocket-Sized Mental Health Companion
             </h3>
             <p className="text-base text-[#31405B] font-switzerRegular font-normal md:text-mediumB mb-6 ">
-              FriendnPal provides quality mental health care without the long
+              AuraRest provides quality mental health care without the long
               waitlists or high costs. From stress and anxiety to healing and
               growth, we are here, when you are ready
             </p>

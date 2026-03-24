@@ -9,7 +9,7 @@ const Opportunities = () => {
           Explore Our Partnership Opportunities
         </h2>
         <p className="font-normal text-sm md:text-lg text-[#31405B]">
-          At FriendnPal, we believe every organization holds the power to build
+          At AuraRest, we believe every organization holds the power to build
           a workplace where mental health is front and center. Here’s why
           partnering with us is a transformative step forward:
         </p>

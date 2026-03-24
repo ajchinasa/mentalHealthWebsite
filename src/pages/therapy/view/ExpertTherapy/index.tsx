@@ -9,7 +9,7 @@ const ExpertTherapy = () => {
           Expert Therapy, Right When You Need It.
         </h4>
         <p className="font-normal text-[#2D384D] text-base">
-          Rest easy knowing every FriendnPal therapist has undergone thorough
+          Rest easy knowing every AuraRest therapist has undergone thorough
           training and careful selection to provide you with the highest
           standard of care.
         </p>

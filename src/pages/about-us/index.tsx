@@ -4,7 +4,7 @@ import OurTeam from "./view/OurTeam";
 import GetStarted from "./view/GetStarted";
 import Hero from "./view/Hero";
 
-const aboutUs = () => {
+const AboutUs = () => {
   return (
     <div className="w-full overflow-x-hidden">
       <Hero />
@@ -18,4 +18,4 @@ const aboutUs = () => {
   );
 };
 
-export default aboutUs;
+export default AboutUs;

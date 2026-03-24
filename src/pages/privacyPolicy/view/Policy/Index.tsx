@@ -12,16 +12,13 @@ const Policy = () => {
         <p className="mb-8 font-normal text-sm">
           This Policy applies to all visitors, data subjects, and others who
           access our Apps and Services ("User(s)" or "You/r"), including persons
-          buying for teams ("Subscribers"). FRIENDNPAL CREATIVE CARE SOLUTIONS
-          LIMITED ("FRIENDNPAL", "FriendnPal", "friendnpal", "Friendnpal",
-          "FnP", "Us", or "Our") operates the website (friendnpal.com and
-          domains), the friendnpal mobile, web-based widget, FriendnPal SDK, and
-          web-based applications ("FriendnPal App" or "App/s" or "Mobile
-          Software/s")
+          buying for teams ("Subscribers"). AuraRest CREATIVE CARE SOLUTIONS
+          LIMITED ("Us", or "Our") operates the website (AuraRest.com and
+          domains).
         </p>
         <p className="text-sm mb-4 font-medium">
           You may use our Apps to access one or more of our services and
-          offerings (collectively the "Service(s)" or "FriendnPal Service")
+          offerings (collectively the "Service(s)" or "AuraRest Service")
         </p>
         <ul className="list-disc list-inside text-sm space-y-2 mb-8">
           {privacyServices.map((item, index) => (
@@ -35,7 +32,7 @@ const Policy = () => {
           public or private organisations. Institutional Services may involve
           processing information on behalf of the Institution. Where applicable,
           you must agree to the Terms of Service and Privacy Policies of both
-          FriendnPal and your Institution to proceed with using the
+          AuraRest and your Institution to proceed with using the
           Institutional Service.
         </p>
         <p className="text-sm mb-4 font-normal">
@@ -54,7 +51,7 @@ const Policy = () => {
       <section>
         <h4 className="text-2xl font-semibold mb-6">Our Principles</h4>
         <p className="text-sm mb-4 font-medium">
-          FriendnPal has designed this policy to be consistent with the
+          AuraRest has designed this policy to be consistent with the
           following principles:
         </p>
         <ul className="list-disc list-inside text-sm space-y-2">

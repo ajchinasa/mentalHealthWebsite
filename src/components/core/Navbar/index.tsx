@@ -31,14 +31,14 @@ const Navbar = () => {
     <>
       <ScrollToTop />
       <div
-        className={`sticky top-0 w-full z-50 py-2 ${isScrolled ? "" : "bg-[#FAFAFA]"}`}
-      >
+        className={`sticky top-0 w-full z-50 py-2 bg-[#FAFAFA]`}>
+
         {/* Desktop Navbar */}
         <motion.div
           initial={false}
           animate={{
             backgroundColor: isScrolled
-              ? "rgba(250,250,250,0.7)"
+              ? "rgba(250,250,250,1)"
               : "rgba(250,250,250,1)",
             backdropFilter: isScrolled ? "blur(12px)" : "blur(0px)",
             boxShadow: isScrolled
@@ -79,12 +79,12 @@ const Navbar = () => {
                     <Portal>
                       <MenuList className="text-sm font-campton">
                         {dropdownNav[nav].map((dropdown, idx) => (
-                          <Link
-                            to={dropdown?.path}
+                          <MenuItem
                             key={`${dropdown?.text}_${idx}`}
+                            onClick={() => navigate(dropdown?.path)} // <--- Add this line
                           >
-                            <MenuItem>{dropdown?.text}</MenuItem>
-                          </Link>
+                            {dropdown?.text}
+                          </MenuItem>
                         ))}
                       </MenuList>
                     </Portal>

@@ -19,7 +19,7 @@ export const partnershipOpportunitiesData = [
   {
     title: "Where Technology Embraces Compassion",
     description:
-      "FriendnPal seamlessly blends innovative technology with a human touch, delivering personalized support that never compromises on empathy. Our solutions are tailored to meet your team’s unique needs with ease and care.",
+      "AuraRest seamlessly blends innovative technology with a human touch, delivering personalized support that never compromises on empathy. Our solutions are tailored to meet your team’s unique needs with ease and care.",
     image: image3,
   },
   {

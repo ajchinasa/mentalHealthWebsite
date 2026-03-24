@@ -18,7 +18,7 @@ const AwardsSection = () => {
         <div className=" flex justify-center">
           <img
             src={awardsCrown}
-            alt="Awards and Certifications at FriendnPal"
+            alt="Awards and Certifications at AuraRest"
             className="w-full max-w-sm"
           />
         </div>

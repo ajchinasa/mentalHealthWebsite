@@ -3,7 +3,7 @@ export const progressData = [
     figure: "20",
     title: "Corporate Partnerships",
     description:
-      "Trusted by over 300 organizations, FriendnPal is reshaping workplace well-being and empowering teams across the continent.",
+      "Trusted by over 300 organizations, AuraRest is reshaping workplace well-being and empowering teams across the continent.",
   },
   {
     figure: "4+",

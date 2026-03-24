@@ -83,7 +83,7 @@ const Hero = () => {
           </div>
           <img src={qrCode} className="w-[70%] mx-auto" alt="QR Code" />
           <p className="text-brand-secondary-extraLightBlue text-center mx-auto">
-            Download the OurPadi app and sign up or log in with your account
+            Download the Aura app and sign up or log in with your account
             details.
           </p>
         </div>

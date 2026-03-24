@@ -36,21 +36,21 @@ const SocialShare: React.FC<SocialShareProps> = ({ url }) => {
           </Link> */}
         <Link
           className="text-3xl"
-          to={`https://twitter.com/intent/tweet?url=${url}`}
+          to={`#`}
           target="_blank"
         >
           <FaSquareXTwitter />
         </Link>
         <Link
           className="text-3xl"
-          to={`https://www.facebook.com/sharer/sharer.php?u=${url}`}
+          to={`#`}
           target="_blank"
         >
           <FaFacebookF />
         </Link>
         <Link
           className="text-3xl"
-          to={`http://www.linkedin.com/shareArticle?mini=true&url=${url}&title=Check%20out%20this%20mental%20health%20blog%20post&summary=friendnpal%20mental%20health%20blog&source=friendnpal.com`}
+          to={`#`}
           target="_blank"
         >
           <FaLinkedin />
